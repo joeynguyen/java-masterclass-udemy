@@ -7,5 +7,10 @@ public class Main {
 	    char myChar = '\u00A9';
 	    System.out.println("Unicode output: " + myChar);
 
+	    char registeredSymbol = '\u00AE';
+	    System.out.println("registeredSymbol: " + registeredSymbol);
+
+	    boolean myBool = true;
+		System.out.println("myBool: " + myBool);
     }
 }
